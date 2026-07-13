@@ -1,4 +1,4 @@
-# Предсказатель риска развития сахарного диабета
+# Предсказание риска развития сахарного диабета
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)](https://streamlit.io/)
