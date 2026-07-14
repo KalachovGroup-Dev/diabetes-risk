@@ -7,7 +7,7 @@
 Решение на базе машинного обучения для оценки риска развития диабета на основе клинических параметров.
 
 Проект демонстрирует полный цикл разработки: от обработки несбалансированных медицинских данных до развертывания интерактивного веб-приложения для мгновенного анализа рисков.
-![Иллюстрация к проекту]([https://github.com/jon/coolproject/raw/master/image/image.png](https://github.com/KalachovGroup-Dev/diabetes-risk/blob/main/app.jpeg))
+![Иллюстрация к проекту](https://github.com/KalachovGroup-Dev/diabetes-risk/blob/main/app.jpeg)
 
 ## Предмет изучения 
 
